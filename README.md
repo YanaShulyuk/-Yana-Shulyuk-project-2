@@ -1,2 +1,2 @@
-# -Yana-Shulyuk-project-2
+# -Yana-Shulyuk-project
 For IAMPM
